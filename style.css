@@ -1,0 +1,26 @@
+body {
+    color: white;
+    background: blueviolet;
+    margin: 0px;
+    font-family: "Playwrite GB S", cursive;
+
+}
+
+header {
+    border-bottom: solid 2px pink;
+    margin: 20px;
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+.chamada-texto {
+    margin-right: 5%;
+}
+h1 {
+    font-size: 20px;
+}
+img {
+    height: 20px;
+}
